@@ -1,2 +1,7 @@
 Hi! this is my first git exercize.
-I've learnt git init, git add, git status, git commit and so on commands in git.
+
+I've learnt git init, git add, git status, git commit
+and so on commands in git.
+
+That's interesting!
+
