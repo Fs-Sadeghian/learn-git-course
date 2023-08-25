@@ -7,3 +7,6 @@ else:
 	print("not allowed and need permission")
 
 
+def fun(a,b):
+	print(a+b)
+
